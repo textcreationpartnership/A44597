@@ -1,0 +1,725 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A book of funds, or, Some reasonable projections and proposals for raising three millions of money per annum for supplies to be granted His Majesty by such ways and methods as will be least burthensome to the people during the war most humbly offer'd to the consideration of both Houses of Parliament / by Thomas Houghton ...</title>
+            <author>Houghton, Thomas, Gent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 63 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44597</idno>
+            <idno type="STC">Wing H2925A</idno>
+            <idno type="STC">ESTC R6450</idno>
+            <idno type="EEBO-CITATION">13505941</idno>
+            <idno type="OCLC">ocm 13505941</idno>
+            <idno type="VID">99790</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44597)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99790)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 791:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A book of funds, or, Some reasonable projections and proposals for raising three millions of money per annum for supplies to be granted His Majesty by such ways and methods as will be least burthensome to the people during the war most humbly offer'd to the consideration of both Houses of Parliament / by Thomas Houghton ...</title>
+                  <author>Houghton, Thomas, Gent.</author>
+               </titleStmt>
+               <extent>32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the authour,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. 32.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Revenue --  England --  Early works to 1800.</term>
+               <term>Revenue --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99790:1" rendition="simple:additions"/>
+            <p>A BOOK OF FUNDS: OR, Some Reaſonable PROJECTIONS and PROPOSALS for Raiſing <hi>Three Millions</hi> of Money <hi>per Annum,</hi> for <hi>Supplies,</hi> to be Granted His MAJESTY.</p>
+            <p>By ſuch WAYS and METHODS as will be leaſt Burthenſome to the <hi>People,</hi> during the <hi>War.</hi>
+            </p>
+            <p>Moſt Humbly Offer'd to the Conſideration of Both Houſes of PARLIAMENT.</p>
+            <p>By <hi>Thomas Houghton</hi> of <hi>Lyme-Street,</hi> Gent.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for the AUTHOUR. 1696.</p>
+            <pb facs="tcp:99790:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:99790:2"/>
+            <head>A BOOK OF FUNDS, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HAT His Majeſty would be Graciouſly Pleaſed to give in Charge and Command, That the LAWS be exactly Ob<g ref="char:EOLhyphen"/>ſerved, and put in Execution, through all His Kingdoms and Dominions, againſt all <hi>Felons</hi> and <hi>Criminals,</hi> both by <hi>Sea</hi> and <hi>Land.</hi>— And for ſuch as ſhall be <hi>Condemn<g ref="char:EOLhyphen"/>ed,</hi> by due Courſe of Law, in <hi>England, Wales,</hi> and <hi>Berwick upon Tweed:</hi> That His Majeſty be Addreſt, by Both Houſes of <hi>Parliament,</hi> That He would be moſt Graciouſly Pleaſed to ſpare and grant them their <hi>Lives</hi> upon the following Conditions, or upon ſuch Terms as You (in Your Great Wiſdom) ſhall Propoſe, and His Majeſty moſt Graciouſly think fit, <hi>Murther</hi> only excepted.</p>
+            <div n="1" type="proposal">
+               <pb n="4" facs="tcp:99790:3"/>
+               <head>Propoſal I.</head>
+               <p>
+                  <hi>Firſt,</hi> THAT Each and Every of them Pay to the King the full Value of what they ſtand Condemned for, be it <hi>Five Pounds,</hi> or <hi>Five Thouſand Pounds,</hi> more or leſs: And the full Value of all ſuch other Sum or Sums, as ſhall be prov'd upon them, for any former <hi>Fact</hi> or <hi>Facts</hi> whatſoever; together with <hi>Fifty Pounds</hi> for a <hi>Fine,</hi> whether the <hi>Crimes</hi> be Committed by <hi>Land</hi> or <hi>Sea.</hi> — And that they, and every of them, that are able to Pay and Diſcharge the ſaid Sums, be alſo Baniſh'd, and Sold for Four Years to ſerve on <hi>Ship-board,</hi> or in ſome part of <hi>Africa, America,</hi> or <hi>Eaſt-India,</hi> unleſs they be able to procure and can pay <hi>Fifty Pounds</hi> more for every Years Service, which will make <hi>Two Hundred</hi> and <hi>Fifty Pounds</hi> to acquit them of their <hi>Fine</hi> and <hi>Baniſhment,</hi> having firſt diſ<g ref="char:EOLhyphen"/>charg'd all other Sums they ſtand Condemned for, or ſhall be proved upon them, as afore-ſaid.</p>
+               <p>
+                  <hi>Secondly,</hi> That he or ſhe who is not able to pay and diſcharge the ſaid Sums, be Baniſh'd, or Sold to ſome of the afore-ſaid Places during his or her Life; and to have the Letter R Burnt in their Cheek; which Letter will prevail with many to Pay, before they will be Burnt or Tranſported, if they can raiſe Money any way, and will diſcover ſuch as Return; which if any do, they ſhall incurr the like Penalties again.</p>
+               <p>
+                  <hi>Thirdly,</hi> That the <hi>Africa</hi> and <hi>Eaſt-India</hi> Companies ſhall be obliged to take and Tranſport all ſuch as cannot be diſpoſed off to <hi>America;</hi> or, otherwiſe, Sold to ſome Captains, to ſerve on <hi>Ship-board;</hi> and ſhall Pay to the King <hi>Twenty Pounds</hi> a Head for every <hi>Male</hi> and <hi>Female,</hi> that is Unbranded, who is to ſerve but Four Years; and <hi>Forty Pounds</hi> a Head for all that are Mark'd with <hi>R,</hi> who ſhall be their <hi>Souldiers</hi> or <hi>Servants</hi> during Life. —</p>
+               <pb n="5" facs="tcp:99790:3"/>
+               <p>
+                  <hi>Fourthly,</hi> That all <hi>Man-Slaughter,</hi> or <hi>accidental taking away of Life,</hi> be Puniſh'd with a Fine of <hi>Fifty Pounds,</hi> if the <hi>Slayers</hi> Real and Perſonal Eſtate be worth ſo much. — And if his or her Eſtate that ſhall be found Guilty of <hi>Man-Slaughter</hi> be worth <hi>Five Hundred Pounds</hi> or upwards, then to Pay <hi>Two Hundred</hi> and <hi>Fifty Pounds</hi> Fine; and if no Eſtate, nor cannot procure a Friend to Pay the <hi>Fifty Pounds,</hi> then to be Sold to one of the Companies for <hi>Forty Pounds</hi> for Seven Years, but not to be Mark'd with the Letter <hi>R;</hi> provided always, that there doth appear no Suſpicion of any premedi<g ref="char:EOLhyphen"/>tated deſign of <hi>Killing;</hi> nor the <hi>Slayer</hi> himſelf, nor his Friends, are not to receive any Benefit or Advantage by the Death of the other. — And if any ſhall be ſet upon by a <hi>Thief</hi> in his <hi>Houſe,</hi> in the <hi>High-Way,</hi> or elſewhere, and Kills ſuch a one in his own Defence, then to be freed from any Fine: — But that all <hi>Premeditated</hi> and <hi>Wilful Murther</hi> be Puniſh'd with <hi>Death,</hi> as the Law directs, where there appears a Deſign of <hi>Killing,</hi> and the <hi>Slayers</hi> Eſtate be diſ<g ref="char:EOLhyphen"/>pos'd on, as is hereafter-mentioned.</p>
+               <p>
+                  <hi>Fifthly,</hi> That all <hi>Dewellers,</hi> or <hi>ſuch who ſhall Fight here<g ref="char:EOLhyphen"/>after with any Mortal Weapon;</hi> as <hi>Sword, Rapier, Daggar,</hi> or any other ſharp pointed or ſharp edged Weapon of <hi>Iron</hi> or <hi>Steel,</hi> — He that Wounds or draws Blood of the other, if the <hi>Blood-Drawer</hi> be a Knight, or above the degree of a Knight, he to Pay <hi>Five Hundred Pounds</hi> for a Fine; and the Wounded Perſon, if a Knight, or above the degree of Knight-hood, <hi>Four Hundred</hi> and <hi>Fifty Pounds;</hi> and if Both be Wounded, each <hi>Five Hundred Pounds,</hi> being Knights, or above that Degree, as afore-ſaid. — Provided always that there be Proof, or it doth appear that a Challenge hath been made by either of the Parties, before their Meeting to Fight. — And if Two ſuch Perſons Draw, and Fight immediately in the ſame Room, Houſe, Field or Place where they begin their Quarrel, and Challenge one another, without a Quarter of
+<pb n="6" facs="tcp:99790:4"/>an Hours Intermiſſion of Time, then the <hi>Blood-Drawer</hi> to Pay but <hi>Two Hundred</hi> and <hi>Fifty Pounds,</hi> and the <hi>Wounded Perſon Two Hundred Pounds,</hi> becauſe their Action or Quarrel may happen to be without Deſign or Premeditation: But if any longer Time paſſeth, or if one leaves the Room or Place where the Quarrel began, and they meet again, though never ſo ſoon, and Fight, then the <hi>Blood-Drawer</hi> to Pay <hi>Five Hundred Pounds,</hi> and the <hi>Wounded Perſon Four Hundred</hi> and <hi>Fifty Pounds;</hi> and if Both Wounded, each <hi>Five Hundred Pounds,</hi> as afore-ſaid, becauſe they continue their Deſign and Reſo<g ref="char:EOLhyphen"/>lution of <hi>Fighting.</hi>
+               </p>
+               <p>
+                  <hi>Sixthly,</hi> If one be a Knight, or above the Degree of Knight-hood; and the other an Eſquire, Gentleman, or a Perſon of any other Reputation, the <hi>Wounding</hi> and <hi>Wounded Perſons</hi> to Pay the <hi>Five Hundred</hi> and <hi>Four Hundred</hi> and <hi>Fifty Pound</hi> Fines, as afore-ſaid; Provided a Challenge hath been made by either of them before their Fighting; or if there be a Quarter of an Hours Intermiſſion of Time between the Beginning of their Quarrel, and the Time of Fighting; or if they, or either of them, leave that Room or Place, and meet again, and Fight, if <hi>Blood</hi> be drawn by ſuch Weapons, they to Pay the Fines afore-ſaid. — But if they Draw, and Fight immediately upon Words, in the Place where the Quarrel begins, then the <hi>Wounding</hi> and <hi>Wounded Perſons</hi> to Pay the like Fines as are before-mentioned, where the Action was, without Deſign or Premeditation, <hi>(viz.) Two Hundred</hi> and <hi>Fifty,</hi> and <hi>Two Hundred Pounds.</hi>
+               </p>
+               <p>
+                  <hi>Seventhly,</hi> If any Knight, or Perſon above the Degree of a Knight, ſhall Draw, and Wound any Knight or Noble-Man that hath no Sword; or if he hath a Sword, and that be undrawn, the <hi>Blood-Drawer</hi> to Pay <hi>One Thouſand Pounds;</hi> and <hi>Five Hundred Pounds</hi> if it be upon any other Perſon under the Degree of a Knight.</p>
+               <pb n="7" facs="tcp:99790:4"/>
+               <p>
+                  <hi>Eighthly,</hi> If any Eſquire, Gentleman, or other Perſon, ſhall Draw, and Wound a Knight or Noble-Man, that hath not a Sword; or if he hath a Sword, and that be undrawn, the <hi>Blood-Drawer</hi> to Pay <hi>One Thouſand Pounds,</hi> or Sold for <hi>Forty Pounds</hi> to one of the Companies, during his Life, if he be unable; or if able, and unwilling to Pay the Fine afore-ſaid. And if any ſuch ſhall Wound any other Perſon, not having a Sword drawn, the <hi>Blood-Drawer</hi> to Pay <hi>Two Hundred</hi> and <hi>Fifty Pounds,</hi> or be Sold for <hi>Forty Pounds,</hi> for Seven Years, to one of the Companies, as afore-ſaid.</p>
+               <p>
+                  <hi>Ninthly,</hi> That where Two appoints to <hi>Fight a Dewel,</hi> if either be Killed, or Die of his Wounds after Fighting; That His Majeſty be Addreſt not to Pardon the other, nor to give his Eſtate to any that ſhall endeavour to beg it, (upon any Pretence whatſoever) without Paying <hi>Five Thou<g ref="char:EOLhyphen"/>ſand Pounds</hi> to the Government: — Or that his Eſtate be Sold for what it will make, or for ſo many Years as will raiſe <hi>Five Thouſand Pounds,</hi> by a preſent Sale thereof; if the <hi>Slayer</hi> be a Knight, or above that Degree, or a Gentleman of an Eſtate, and ſhall Kill a Knight, or one that is Noble, upon ſuch a Challenge, the <hi>Slayer</hi> to be Baniſh'd for Four Years, unleſs he will Pay <hi>Two Thouſand Pounds</hi> more to ac<g ref="char:EOLhyphen"/>quit him of his Baniſhment: But if no Challenge hath been made, nor no premeditated Deſign of Fighting, then ſuch a <hi>Slayer</hi> only to Pay <hi>Five Thouſand Pounds.</hi>
+               </p>
+               <p>
+                  <hi>Tenthly,</hi> If the <hi>Slayer</hi> be a Knight, or a Noble-Man, and ſhall Kill an Eſquire, Gentleman, or any other Perſon, upon a Challenge made ſome time before, that he be Fined <hi>Five Thouſand Pounds.</hi>— And if he Kill him in a Houſe, or in any Place, upon a Quarrel, ariſing from Words, without any premeditated Deſign or Cauſe of Fighting, but what ariſeth then from Words, both having their Swords drawn, then to Pay but <hi>Four Thouſand Five Hundred Pounds.</hi>
+               </p>
+               <pb n="8" facs="tcp:99790:5"/>
+               <p>
+                  <hi>Eleventhly,</hi> If an Eſquire, Gentleman, or a Perſon of any lower Reputation, ſhall Kill a Knight or Noble-Man upon a Challenge made before their Fighting, he to Pay <hi>Seven Thouſand Pounds,</hi> if his Eſtate be worth ſo much; and if his Eſtate be not worth ſo much, to be Sold for the moſt it will make, and he Baniſh'd during his Life. — And if an Eſquire, Gentleman, or other inferiour Perſon, ſhall Kill a Knight or a Noble-Man, in any Place, upon a Quarrel ariſing from Words, without any premeditated Deſign, or any viſible or known Envy or Malice, but what happeneth at that in<g ref="char:EOLhyphen"/>ſtant time of Fighting, if Both have Swords drawn, never<g ref="char:EOLhyphen"/>theleſs, he to Pay <hi>Seven Thouſand Pounds,</hi> if his Eſtate be worth ſo much. — And if his Eſtate be not worth ſo much, to be Sold for the moſt it will make, and he Baniſh'd during Life, as afore-ſaid.</p>
+               <p>
+                  <hi>Twelfthly,</hi> If Two Perſons, of what Reputation ſoever, under the Degrees of Knights, ſhall Challenge one another, and Fight, if one be Killed, that the <hi>Slayers</hi> Eſtate be Sold to raiſe <hi>Five Thouſand Pounds</hi> for the Service of the Govern<g ref="char:EOLhyphen"/>ment. — And if his Eſtate be not worth ſo much, to be Sold for the moſt it will make, and he Baniſh'd for Seven Years. — But if any Perſon ſhall Kill another, by Defend<g ref="char:EOLhyphen"/>ing himſelf, there having been no former Quarrel or Malice, nor no Challenge made, then to Pay the <hi>Fifty Pounds</hi> Fine for <hi>Man-Slaughter,</hi> and to be acquitted, or elſe to Serve Four Years Abroad, as afore-ſaid, if the Slayn Perſon be not a <hi>Thief.</hi>
+               </p>
+               <p>
+                  <hi>Thirteenthly,</hi> And if any Perſon whatſoever ſhall wilfully <hi>Kill</hi> another, upon the Account of <hi>Malice, Drunken<g ref="char:EOLhyphen"/>neſs,</hi> or for <hi>Profit</hi> and <hi>Intereſt</hi> ſake, whether the Dying Perſon hath a Sword drawn or not drawn; That His Majeſty would be Graciouſly Pleaſed, that henceforwards the Eſtate of the <hi>Slayer</hi> may be Sold, and the Money ariſing from it
+<pb n="9" facs="tcp:99790:5"/>converted to the Uſe of the Government, and his Perſon to Suffer Death, as the Law directs, or as His Majeſty ſhall, in His Mercy, ſee Cauſe to diſpoſe of it.</p>
+               <p>
+                  <hi>Laſtly,</hi> Be pleaſed to conſider, the <hi>Felons</hi> and <hi>Criminals,</hi> by <hi>Sea</hi> and <hi>Land,</hi> in <hi>England, Wales,</hi> and <hi>Berwick</hi> upon <hi>Tweed,</hi> may be reckoned <hi>Three Thouſand</hi> Yearly; many of which Paying great <hi>Fines,</hi> and Forfeiting <hi>Eſtates,</hi> 'tis pro<g ref="char:EOLhyphen"/>bable, the Product may ariſe to <hi>One Hundred</hi> and <hi>Fifty Thouſand Pounds per Annum;</hi> which, if you account but at <hi>Fifty Pounds</hi> a Head, one with another, will make up that Sum: And whereas <hi>Hanging</hi> them is a great Loſs to the Nation, ſeveral ways, too long to be here recited; the Pre<g ref="char:EOLhyphen"/>ſervation of their Lives this way, will not only raiſe ready Money for the Service of the <hi>Government;</hi> but the Sending them Abroad will, in a few Years, increaſe the Power and Strength of the <hi>Engliſh</hi> in Foreign Parts, and will occaſion a greater Expence and Demand of the <hi>Engliſh Manufactures;</hi> whereby <hi>Trade</hi> would be Increaſed, <hi>Foreign Places</hi> Strengthened, <hi>preſent Money</hi> by them here Raiſed, their <hi>Owners</hi> Abroad Inriched, <hi>Themſelves</hi> Preſerved, and the <hi>Nation</hi> Rid of <hi>Rogues,</hi> which, in Time, and change of Place, may grow Honeſt; ſo that it may be better to Raiſe <hi>One Hun<g ref="char:EOLhyphen"/>dred</hi> and <hi>Fifty Thouſand Pounds per Annum</hi> this way, than to continue <hi>Hanging</hi> them, ſince daily Experience ſhews You, The <hi>Death</hi> of one doth not Diſcourage nor Reclaim another.</p>
+            </div>
+            <div n="2" type="proposal">
+               <head>Propoſal II.</head>
+               <p>WHEREAS there were ſome Debates in the Honour<g ref="char:EOLhyphen"/>able Houſe of <hi>Commons,</hi> the laſt Seſſions of <hi>Parliament,</hi> for Laying a <hi>Duty</hi> upon <hi>Leather;</hi> which <hi>Duty,</hi> unleſs it was Charged very high, <hi>(viz.)</hi> Value for Value, wou'd
+<pb n="10" facs="tcp:99790:6"/>Raiſe but a very inconſiderable Sum: Therefore, to accompliſh and effect it the better, in all Humility, I humbly Propoſe, That a <hi>Duty</hi> be laid upon all <hi>Green Skins</hi> and <hi>Raw Hides,</hi> together with the <hi>Bodies</hi> or <hi>Carcaſſes</hi> of theſe Eatable Creatures joyntly, leaving the <hi>Butcher</hi> or <hi>Slaughterer</hi> thereof, to Proportion and Charge this <hi>Duty</hi> upon the <hi>Body, Hide</hi> and <hi>Skin</hi> together, as he ſhall ſee Cauſe; and that he be Charged for every and each of them joyntly, as followeth.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell rows="2"> </cell>
+                        <cell role="label" cols="3">
+                           <hi>per Annum.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <abbr>
+                              <hi>l</hi>
+                           </abbr>
+                        </cell>
+                        <cell role="label">
+                           <abbr>
+                              <hi>s</hi>
+                           </abbr>
+                        </cell>
+                        <cell role="label">
+                           <abbr>
+                              <hi>d</hi>
+                           </abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>First,</hi> For all <hi>Lambs Skins</hi> and <hi>Carcaſſes, Twelve Pence</hi> a piece; of which I compute to be Killed in <hi>England, Wales,</hi> and <hi>Berwick</hi> upon <hi>Tweed,</hi> Yearly, 600000 which comes to</cell>
+                        <cell>030000</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Secondly,</hi> For all <hi>Goats</hi> and <hi>Sheep Skins,</hi> and their <hi>Carcaſſes;</hi> of which I compute to be Yearly Killed 1200000, at <hi>Two Shillings</hi> a piece, comes to</cell>
+                        <cell>120000</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Thirdly,</hi> For every <hi>Calf's Skin</hi> and <hi>Carcaſs;</hi> of which I reckon to be Killed Yearly 400000, at <hi>Two Shil<g ref="char:EOLhyphen"/>lings</hi> and <hi>Six Pence</hi> a piece, comes to</cell>
+                        <cell>050000</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Fourthly,</hi> For every <hi>Hog's-Head</hi> and <hi>Body,</hi> that is Killed, being upwards of Three Months Old; of which I reckon 300000, at <hi>Two Shillings</hi> and <hi>Six Pence</hi> a piece, comes to</cell>
+                        <cell>037500</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>— And for all <hi>Pigs</hi> under that Age <hi>Two Pence</hi> a piece; of which I reckon 200000, which comes to</cell>
+                        <cell>001666</cell>
+                        <cell>13</cell>
+                        <cell>04</cell>
+                     </row>
+                     <pb n="11" facs="tcp:99790:6"/>
+                     <row>
+                        <cell>
+                           <hi>Fifthly,</hi> For every <hi>Cow's Hyde</hi> and <hi>Carcaſs, Seven Shillings;</hi> of which I reckon 400000 Yearly comes to</cell>
+                        <cell>140000</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Sixthly,</hi> For every <hi>Ox, Bullock's</hi> and <hi>Bull's Hyde</hi> and <hi>Carcaſs, Twelve Shillings;</hi> of which I reckon to be Killed Yearly 400000, comes to</cell>
+                        <cell>240000</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Seventhly,</hi> For all <hi>Bucks, Body</hi> and <hi>Skin;</hi> of which I reckon 12000, at <hi>Five Shillings</hi> a piece, comes to</cell>
+                        <cell>003000</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Eighthly,</hi> For all <hi>Does, Body</hi> and <hi>Skin;</hi> of which I reckon alſo 12000, at <hi>Three Shillings</hi> and <hi>Six Pence</hi> a piece, comes to</cell>
+                        <cell>002100</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ninthly,</hi> For all <hi>Hares</hi> and <hi>Rabbits, Bodies</hi> and <hi>Skins,</hi> at <hi>Six Shillings</hi> the Hundred; of which I compute 2000000 Killed Yearly, 120 being reckoned to the Hundred, comes to</cell>
+                        <cell>006662</cell>
+                        <cell>13</cell>
+                        <cell>04</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>Tenthly,</hi> And that the <hi>Fiſhmongers</hi> and <hi>Poulterers</hi> may not have an Advantage of the <hi>Butchers,</hi> in the Sale of their <hi>Fiſh</hi> and <hi>Fowl,</hi> It may be reaſonable to lay a <hi>Duty</hi> upon all <hi>Pullen,</hi> and the ſame upon all <hi>ſalt</hi> and <hi>freſh Fiſh,</hi> ariſing to about <hi>Five Pounds per Cent.</hi> And to render the Aſſeſſing and Collecting of theſe Duties more eaſie and equal; That the <hi>Juſtices of the Peace,</hi> and the <hi>Aſſeſſors of the King's Taxes</hi> in every Pariſh, be enjoyn'd, by <hi>Act of Parliament,</hi> to make Enquiry, or cauſe Enquiry to be made, and to obtain the beſt Information they can concerning the Quantity of each Perſon's Trade that deals in theſe Commodities, in their reſpective
+<pb n="12" facs="tcp:99790:7"/>Pariſhes; and to Aſſeſs and Charge him or her with a Quar<g ref="char:EOLhyphen"/>terly Payment, that hath a greater or leſſer Trade accordingly;— that is to ſay, <hi>Five Pounds</hi> upon him that deals for a <hi>Hundred Pounds per Annum;</hi> and <hi>Thirty Pounds</hi> Yearly upon him that Trades for <hi>Six Hundred Pounds</hi> a Year in thoſe Goods; but no <hi>Fiſhmonger</hi> nor <hi>Poulterer</hi> to Pay above <hi>Thirty Pounds,</hi> nor leſs than <hi>Five Pounds per Annum,</hi> their Trades being never ſo great or ſmall.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">
+                           <abbr>
+                              <hi>l</hi>
+                           </abbr>
+                        </cell>
+                        <cell role="label">
+                           <abbr>
+                              <hi>s</hi>
+                           </abbr>
+                        </cell>
+                        <cell role="label">
+                           <abbr>
+                              <hi>d</hi>
+                           </abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Eleventhly,</hi> That all <hi>Foreign Hydes, Skins,</hi> and <hi>Furs,</hi> be Taxed in the ſame manner, by Charging the <hi>Importer, Furrier,</hi> or Perſon Dealing in them, with a <hi>Duty</hi> of <hi>Five Pounds per Cent.</hi> which <hi>Duties</hi> of <hi>Fiſh</hi> and <hi>Fowl,</hi> being added to this of <hi>Foreign Hydes, Furs,</hi> and <hi>Skins,</hi> will Raiſe 60000 <hi>Pounds</hi> Year<g ref="char:EOLhyphen"/>ly; and will make up the Sums afore<g ref="char:EOLhyphen"/>going in this Paragraph, <hi>per Annum,</hi>
+                        </cell>
+                        <cell>690929</cell>
+                        <cell>06</cell>
+                        <cell>08</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>Twelfthly,</hi> That <hi>Leaden-Hall-Market</hi> remain the Place (as it now is) for Sale of all <hi>Oxen, Bullock's, Bull's</hi> and <hi>Cow's Hydes,</hi> on the uſual Days of Sale, for all ſuch as ſhall be Slaughter'd in the <hi>City</hi> and <hi>Suburbs,</hi> or within Five Miles of <hi>London,</hi> or a greater diſtance, if the <hi>Owners</hi> find it Beneficial to bring them thither:— And that <hi>Southwark, White-Chappel, Smithfield, Clare-Market,</hi> and St. <hi>James</hi>'s-<hi>Market,</hi> with ſuch other Places as the <hi>Officers</hi> and <hi>Collectors</hi> ſhall find convenient, be appointed for the Sale of all <hi>Lambs, Sheep, Goats, Bucks, Does</hi> and <hi>Calves Skins,</hi> on their uſual Days of Sale, between the Hours of Seven and Twelve of the Clock in the Forenoon, which ſhall be Slaughter'd in any Place within the Compaſs of the <hi>Bills of Mortality:</hi>— And for all other Parts of <hi>England, Wales,</hi> and <hi>Berwick</hi> upon <hi>Tweed,</hi> that convenient Times and Places be appointed by
+<pb n="13" facs="tcp:99790:7"/>the <hi>Officers</hi> and <hi>Collectors,</hi> for the Sale of all <hi>Raw Hydes</hi> and <hi>Skins,</hi> as afore-ſaid.— And that no Perſon preſume to carry away any <hi>Hyde</hi> or <hi>Skin</hi> till the <hi>Officer</hi> or <hi>Collector</hi> hath ſeen and told them over, although they may Buy and Sell, or Agree for the ſame before.— And if any Perſon ſhall Buy, Sell, Conceal and Carry away any <hi>Hyde</hi> or <hi>Skin,</hi> which the <hi>Officer</hi> hath not ſeen, and taken an Account thereof; the <hi>Buyer</hi> and <hi>Seller</hi> to Forfeit each of them <hi>Five Pounds</hi> for every ſuch <hi>Hyde</hi> or <hi>Skin</hi> he or ſhe ſhall ſo Buy, Sell, or Conceal from the <hi>Officer,</hi> as afore-ſaid, if Diſcovered; one half to go to the <hi>King,</hi> and the other half to the <hi>Informer</hi> and <hi>Officer</hi> that makes the Seizure.</p>
+               <p>
+                  <hi>Laſtly,</hi> In regard <hi>Money</hi> muſt be Raiſed one way or another for the Support of the <hi>Government,</hi> if Equity may take place amongſt the People, there will be little Reaſon for any to complain, why this <hi>Impoſition</hi> or <hi>Duty</hi> ſhould not be thus Charged; for in theſe Duties every Perſon will be Taxed, and Pay more or leſs, according to the Quantity he or ſhe uſeth; if Poor, they uſe little, and therefore Pay the leſs; if Rich, they Pay the more, in Proportion to what their Expence and Conſumptions are; ſo that nothing can be more equally laid, and Charg'd upon the People, than the <hi>Taxes</hi> afore-ſaid.— And for the <hi>Butchers, Tanners, Fell<g ref="char:EOLhyphen"/>mongers, Poulterers,</hi> and <hi>Fiſhmongers,</hi> they will have no Cauſe of Objection; for although they ſhall Pay theſe Taxes to the <hi>King</hi> in groſs Sums, the <hi>People,</hi> or <hi>Buyers</hi> of their <hi>Com<g ref="char:EOLhyphen"/>modities,</hi> pay it them again with Advantage, by Parcels.— And for the whole <hi>Duty</hi> it ſelf, upon the <hi>Carcaſs</hi> and <hi>Skin,</hi> if reckoned together, will not riſe to a <hi>Farthing</hi> a Pound, one with another, which Charge is a very inconſiderable Burthen, and is no more but what they now may be out-witted in, or Cheated of by the <hi>Seller,</hi> without being thus Charged.</p>
+            </div>
+            <div n="3" type="proposal">
+               <pb n="14" facs="tcp:99790:8"/>
+               <head>Propoſal III.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">
+                           <abbr>
+                              <hi>l</hi>
+                           </abbr>
+                        </cell>
+                        <cell role="label">
+                           <abbr>
+                              <hi>s</hi>
+                           </abbr>
+                        </cell>
+                        <cell role="label">
+                           <abbr>
+                              <hi>d</hi>
+                           </abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>First,</hi> THAT a <hi>Duty</hi> of <hi>Twenty Shillings</hi> for every Hundred Weight be laid upon all <hi>Hops,</hi> when, and ſo long as they are under <hi>Five Pounds</hi> the Hundred; and when they are <hi>Five Pounds</hi> the Hundred, or upwards, that the <hi>Duty</hi> be then reduc'd to <hi>Ten Shillings</hi> the Hundred during the time they con<g ref="char:EOLhyphen"/>tinue ſo. This <hi>Duty</hi> the People may diſ<g ref="char:EOLhyphen"/>penſe with, becauſe ſometimes they Pay <hi>Seven</hi> or <hi>Eight Pounds</hi> the Hundred for them; which <hi>Duty</hi> may raiſe <hi>per Annum,</hi>
+                        </cell>
+                        <cell>012000</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Secondly,</hi> That a <hi>Duty</hi> of <hi>Five Pounds per Annum</hi> be laid upon all <hi>Carts,</hi> and <hi>Car-Men</hi> that own them, within the Cities of <hi>London</hi> and <hi>West<g ref="char:EOLhyphen"/>minſter;</hi> and upon all ſuch as are driven and wrought within any part of the <hi>Bills of Mortality,</hi> of which I compute there are 3000; ſo that this <hi>Duty</hi> would certainly raiſe, <hi>per Annum,</hi>
+                        </cell>
+                        <cell>012000</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <pb n="15" facs="tcp:99790:8"/>
+                     <row>
+                        <cell>
+                           <hi>Thirdly,</hi> That a <hi>Duty</hi> of <hi>Six Pounds per Cent.</hi> be laid upon all <hi>Iron caſt Guns, Pots, Kettles, Chimney-pieces;</hi> and upon <hi>Nails, Sithes, Sickles, Hooks, Knives, Raiziors, Sizers,</hi> and upon all other <hi>Iron</hi> and <hi>Steeled Ware</hi> whatſoever, that is caſt or wrought up; the <hi>Duty</hi> to be col<g ref="char:EOLhyphen"/>lected at the Place where they are caſt, made, and wrought up, or where they are brought together in Quantities; which <hi>Duty</hi> may raiſe, <hi>per Annum,</hi>
+                        </cell>
+                        <cell>015000</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Fourthly,</hi> For Encouraging the <hi>Iron</hi> and <hi>Copper Works</hi> that are now going in <hi>England</hi> and <hi>Wales;</hi> That a further <hi>Duty</hi> of <hi>Five Pounds,</hi> for every <hi>Hun<g ref="char:EOLhyphen"/>dred Pounds</hi> Worth, more than what there now is, be laid upon all <hi>Foreign Iron,</hi> Caſt or Uncaſt; and upon all <hi>Steel, Lattin, Battery</hi> and <hi>Wyre,</hi> that ſhall be Imported after the Day of next enſuing; which <hi>Duty</hi> may raiſe, <hi>per Annum,</hi> near</cell>
+                        <cell>010000</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Fifthly,</hi> That a <hi>Duty</hi> be laid upon all <hi>Coppers</hi> of <hi>Ten Shillings per</hi> Ton; and a <hi>Duty</hi> of <hi>Twenty Shillings per</hi> Ton upon all <hi>Alum;</hi> which <hi>Duties</hi> may raiſe, <hi>per Annum,</hi>
+                        </cell>
+                        <cell>008000</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Sixthly,</hi> That a <hi>Duty</hi> of <hi>Two Shillings</hi> and <hi>Six Pence</hi> the Ton be laid upon all <hi>empty Cask,</hi> as 'tis wrought up; of which I reckon there is Yearly made 200000 Tons; which <hi>Duty</hi> will raiſe, <hi>per Annum,</hi>
+                        </cell>
+                        <cell>025000</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <pb n="16" facs="tcp:99790:9"/>
+                     <row>
+                        <cell>
+                           <hi>Seventhly,</hi> In regard there is a great Conſumption of <hi>Hemp,</hi> for making <hi>Roaps,</hi> and all ſorts of <hi>Cordage;</hi> That a <hi>Duty</hi> of <hi>Five Pounds per Cent.</hi> that is, for every <hi>Hundred Pounds</hi> Worth, be further Charged upon all <hi>Hemp</hi> and <hi>Flax</hi> that ſhall be Imported after the Day of next enſuing; which <hi>Duty</hi> may raiſe, <hi>per Annum,</hi>
+                        </cell>
+                        <cell>010000</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Eighthly,</hi> That a <hi>Duty</hi> of <hi>Five Shillings per</hi> Hundred Weight be laid upon all <hi>Tin,</hi> and Collected at the <hi>Mills</hi> where 'tis made; which <hi>Duty</hi> may raiſe, <hi>per Annum,</hi>
+                        </cell>
+                        <cell>005000</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>— And that a further <hi>Duty</hi> of <hi>Twenty Shillings</hi> the Fodder, be laid upon all <hi>Lead</hi> and <hi>Shot</hi> that ſhall be Shipp'd from any of theſe Ports follow<g ref="char:EOLhyphen"/>ing, to go beyond Sea, <hi>(viz.)</hi> from <hi>Newcaſtle, Yarm,</hi> or <hi>Stockton; Hull, Yar<g ref="char:EOLhyphen"/>mouth</hi> and <hi>Briſtol;</hi> becauſe it may be carried from theſe Places on our own Coaſt, to ſeveral Places beyond Seas, Cheaper than it can be brought from our own Sea-Coaſt-Towns, to <hi>London;</hi> which <hi>Duty</hi> may raiſe, <hi>per Annum,</hi> about</cell>
+                        <cell>006000</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>Ninthly,</hi> It would be a great Advantage to this Kingdom, and the <hi>Foreigners</hi> would be brought to bear part of our Charges of the War, if all the <hi>Goods</hi> and <hi>Marufactures</hi> of our own Growth, which are Exported from every Sea-Port, but only the Port of <hi>London,</hi> were charged with a Double Duty to what they now are. For, if You pleaſe to conſider, moſt
+<pb n="17" facs="tcp:99790:9"/>of our Goods that come from the In-land parts to <hi>London,</hi> are brought up by Land-Carriage, which, when Shipp'd from <hi>London,</hi> Carriage, Ware-Houſe, out-Room, and all other things conſidered, ſtand in <hi>Six Pounds,</hi> and ſome in <hi>Eight Pounds, per Cent.</hi> more than they coſt thoſe that Ship them from th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> other Sea-Ports;— which Advantage the <hi>Foreigners</hi> gain by ſending their Commiſſions to their Correſpondents at thoſe Places for them;— ſo that when the Merchants in and about this City have Shipp'd their Goods from the Port of <hi>London,</hi> and ſent them to ſuch Places Abroad, they find themſelves defeated, and extreamly diſappointed in the Price and Sale of their Goods there, becauſe the <hi>Foreigner</hi> is able to ſhew them many of the ſame ſorts in his Ware-Houſe at a cheaper Price, by <hi>Six Pounds, Eight Pounds,</hi> and <hi>Ten Pounds per Cent.</hi> than the <hi>London</hi> Merchant can afford them. Therefore, to remove this Miſchief, which, as it now ſtands, is a great Loſs to the <hi>King</hi> and <hi>Kingdom,</hi> — with all Submiſſion, I humbly Propoſe,—</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">
+                           <abbr>
+                              <hi>l</hi>
+                           </abbr>
+                        </cell>
+                        <cell role="label">
+                           <abbr>
+                              <hi>s</hi>
+                           </abbr>
+                        </cell>
+                        <cell role="label">
+                           <abbr>
+                              <hi>d</hi>
+                           </abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>That a <hi>double Duty</hi> Outwards may be laid upon all <hi>Goods,</hi> during the <hi>Wars,</hi> that are Shipp'd from any Place in <hi>England</hi> and <hi>Wales,</hi> the Port of <hi>London</hi> only excepted; which would reduce theſe Ports, and the Port of <hi>London,</hi> to be ſomething more equal to one another, and the <hi>Foreigner</hi> would then pay much the ſame, or near the like Prices, for the Goods, whether he hath them from <hi>London,</hi> or elſewhere: And this <hi>Duty,</hi> I reckon, would raiſe the <hi>King</hi> near 200000 <hi>Pounds per Annum,</hi> which the <hi>Foreigners</hi> now gain of us: So that the <hi>Duties</hi> in the ſeveral Ar<g ref="char:EOLhyphen"/>ticles of this <hi>Third Propoſal,</hi> will amount to, <hi>per Annum,</hi>
+                        </cell>
+                        <cell>303000</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="4" type="proposal">
+               <pb n="18" facs="tcp:99790:10"/>
+               <head>Propoſal IV.</head>
+               <p>
+                  <hi>Firſt,</hi> THAT a <hi>Duty</hi> of <hi>Forty Shillings per Cent.</hi> be laid upon the <hi>laſt Will</hi> and <hi>Teſtament of every dying Perſon that dies worth Fifty Pounds, or upwards:</hi>— That is to ſay, he that Dies worith <hi>Fifty Pounds,</hi> and not <hi>One Hundred Pounds,</hi> ſhall pay but <hi>Twenty Shillings;</hi> and he that Dies worth <hi>One Hundred Pounds,</hi> ſhall pay <hi>Forty Shillings;</hi> and ſo for every <hi>Hundred Pound</hi> he Dies worth, till the Sum he Dies poſſeſs'd of ariſeth to <hi>Ten Thouſand Pounds:</hi> And that none be charged for any Sum beyond or above <hi>Ten Thouſand Pounds,</hi> nor for any Sum under <hi>Fifty Pounds:</hi> So that the higheſt Sum paid the <hi>King</hi> in this Tax, will be <hi>Two Hundred Pounds;</hi> and the loweſt, <hi>Twenty Shillings.</hi> — And for the Reaſonableneſs of this Tax being thus charged, none will have occaſion to complain; — Becauſe, the <hi>dying Perſons,</hi> from whoſe Eſtate or Subſtance this Tax will ariſe and proceed, need not grieve or repine before their Death; for this reaſon, whil'ſt they Live, they pay nothing, and when they are Dead they will want no more: Beſides, <hi>Two Hundred Pounds</hi> is better paid this way, and will do more good than <hi>Five Hundred Pounds</hi> left to a pretended Charitable uſe, and Extravagantly conſum'd, either in that, or <hi>Funeral Pomp.</hi> — And for the <hi>Heirs, Heireſſes, Co-heirs, Executors</hi> and <hi>Adminiſtrators</hi> of the <hi>Deceaſing Perſons,</hi> they will have no reaſon to complain, or grudge the Payment thereof, in regard Forty Nine times as much more is fall'n to them: And this may happen to moſt of them many times unexpectedly, or without any Trouble, Care or Coſt of theirs; ſo that they will be Gainers in happening to be the Perſons charged herewith.</p>
+               <pb n="19" facs="tcp:99790:10"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">
+                           <abbr>
+                              <hi>l</hi>
+                           </abbr>
+                        </cell>
+                        <cell role="label">
+                           <abbr>
+                              <hi>s</hi>
+                           </abbr>
+                        </cell>
+                        <cell role="label">
+                           <abbr>
+                              <hi>d</hi>
+                           </abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>— The like <hi>Duty</hi> to be charged upon all that Die <hi>Inteſtate,</hi> from <hi>Fifty Pounds</hi> to <hi>Ten Thouſand Pounds,</hi> as afore<g ref="char:EOLhyphen"/>ſaid; which Tax may raiſe, <hi>per Annum,</hi> near</cell>
+                        <cell>200000</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> That a <hi>Duty</hi> be laid upon all <hi>Wind-Mills</hi> and <hi>Water-Mills,</hi> for whatſoever Uſe or Uſes they are im<g ref="char:EOLhyphen"/>ploy'd in; And that the <hi>Juſtices of the Peace,</hi> and <hi>Aſſeſſors of the King's-Taxes</hi> in every County, and the particular Pariſhes thereof, be ſtrictly Charged and Commanded, that they, or ſome Two of them, view the <hi>Mills</hi> before they are rated, and give in upon Oath, to the beſt of their Knowledge, the trueſt Account they can obtain, by making enquiry of the Value or Produce each and every <hi>Mill</hi> makes Yearly, in their reſpective Pariſhes.</p>
+               <p>
+                  <label>For Example.</label>
+               </p>
+               <p>Suppoſe a <hi>Corn-Mill,</hi> or any other <hi>Mill,</hi> be worth <hi>Forty</hi> or <hi>Eighty Pounds</hi> a Year; and makes ſo much to the <hi>Owner</hi> and <hi>Miller</hi> out of the produce now, more or leſs; — That the ſame <hi>Mill</hi> be charged with the like Sum for a Yearly <hi>Duty</hi> or <hi>Tax</hi> to be paid the <hi>King;</hi> for theſe Reaſons.</p>
+               <p>It is not the Owner of the <hi>Mill,</hi> nor he that Rents it by the Year, nor he that hath it in Leaſe, that will pay this <hi>Tax</hi> or <hi>Duty;</hi> but the People that bring or ſend their <hi>Corn</hi> to be ground there, paying a double Toll to what they did before; That only will pay the <hi>King</hi> this <hi>Duty</hi> or <hi>Tax,</hi> and not the <hi>Owner, Farmer</hi> or <hi>Renter</hi> of the <hi>Mill,</hi> as is before-ſaid; ſo that whether the <hi>Tax</hi> laid upon the <hi>Mill,</hi> be greater or leſſer, it will pay but as it is Cuſtomed, and as there are more or leſs Thouſands of People ſpend what comes from it; and no one will pay more or leſs than his Proportion; for a poor Perſon
+<pb n="20" facs="tcp:99790:11"/>that ſpends but <hi>Six Pence</hi> or <hi>Nine Pence</hi> a Week in Bread, will pay no more of this <hi>Tax</hi> than his Proportion comes to; and he that ſpends <hi>Fifty Shillings</hi> or <hi>Five Pounds</hi> a Week, will pay the full of his Proportion; ſo that this <hi>Tax</hi> will be equal to all People, according to their Degrees, and will ap<g ref="char:EOLhyphen"/>pear no Burthen to the Meaneſt ſort of them, if charged this way, who will more freely, and with greater Content, pay a <hi>Tax</hi> of <hi>Ten Shillings</hi> Yearly thus charged, than if an <hi>Officer</hi> ſhould demand but <hi>Two Shillings</hi> of them in Money. And the <hi>Aſſeſſors</hi> are to conſider, if a Man Rents a <hi>Mill</hi> at <hi>Twenty Pounds</hi> a Year, he muſt get <hi>Twenty Pounds</hi> more by it to maintain him, beſides the Rent he pays; and when the <hi>Toll</hi> comes to be doubled, it will be worth <hi>Eighty Pounds</hi> in all; of which, <hi>Twenty Pounds</hi> goes for the <hi>Rent,</hi> and <hi>Twenty Pounds</hi> to the <hi>Miller,</hi> and <hi>Forty Pounds per Annum</hi> for the <hi>King:</hi> So that the <hi>Aſſeſſors</hi> may take this for a Rule, <hi>That the</hi> King's-Duty <hi>be equal to the whole Produce of the</hi> Mill, <hi>the</hi> Owner's Rent, <hi>and what the</hi> Imployer <hi>makes, being reckoned together:</hi> That the ſame Rule be obſerved, in Charging all other <hi>Mills</hi> according to their <hi>Yearly Produce,</hi> and not <hi>Yearly Rent.</hi>
+               </p>
+               <p>
+                  <hi>Thirdly,</hi> This <hi>Tax</hi> will raiſe <hi>Eight Hundred Thouſand Pounds per Annum,</hi> and will be the eaſieſt Collected, the leaſt Burthenſome to the People, and the moſt Equal of all other <hi>Taxes</hi> and <hi>Impoſitions</hi> that can be found; for I may truly ſay, There are Five Millions of People in <hi>England</hi> and <hi>Wales,</hi> who had rather pay a <hi>Half-Penny</hi> or a <hi>Penny</hi> at a time for their <hi>Bread,</hi> and all ſuch other <hi>Commodities</hi> as ſhall be prepar'd or come from any of theſe <hi>Mills,</hi> when they've occaſion to uſe them, though it riſe in the Year to <hi>Ten Shillings,</hi> more willingly, than if any <hi>Officer</hi> or <hi>Collector</hi> ſhould come to de<g ref="char:EOLhyphen"/>mand <hi>One Shilling</hi> in Money of them; the reaſon is, becauſe one goes away in ſmall inconſiderable Parcels, and the other in a Sum ſav'd together. — And this may be granted,
+<pb n="21" facs="tcp:99790:11"/>for a Maxim in all <hi>Taxes</hi> and <hi>Impoſitions, Where the People are Taxed, and no</hi> Officer <hi>comes to demand it in</hi> Money, <hi>they undergo ſuch</hi> Taxes <hi>freely and contentedly;</hi> and many had rather pay <hi>Twenty Shillings per Annum</hi> ſo, than <hi>Two Shil<g ref="char:EOLhyphen"/>lings</hi> in <hi>Money</hi> demanded together.</p>
+               <p>
+                  <hi>Fourthly,</hi> Whereas, by the <hi>Act</hi> of <hi>Tonnage</hi> and <hi>Poundage,</hi> made in the Twelfth Year of King <hi>Charles</hi> the Second, all <hi>Aliens</hi> and <hi>Strangers</hi> were to pay a <hi>double Subſidy</hi> or <hi>Duty</hi> for all the <hi>Manufactures</hi> and <hi>Goods</hi> of the Product of this King<g ref="char:EOLhyphen"/>dom they Exported; which <hi>Cuſtom</hi> or <hi>Duty</hi> was taken off, and they freed from it by the Twenty Fifth of <hi>Charles</hi> the Second; whereby all <hi>Aliens, Denizens,</hi> and <hi>Strangers,</hi> pay no other <hi>Cuſtoms</hi> for any Goods of the Product of this Kingdom, which they Export, but what the <hi>King's free-born Subjects</hi> do:— Therefore, in regard of this great Priviledge, which all <hi>Aliens</hi> now have and enjoy, equal to the <hi>King's free-born Subjects:</hi> And foraſmuch as many of them living here get Eſtates, and then remove; — It may be reaſonable either to charge them with the <hi>double Subſidy</hi> or <hi>Cuſtom</hi> again, as they formerly paid it; or elſe, that it may be Enacted; — That every <hi>Gentleman</hi> or <hi>Merchant,</hi> who is an <hi>Alien,</hi> and not <hi>Naturaliz'd,</hi> ſhall either pay <hi>Five Pounds per Annum</hi> to the <hi>King,</hi> during his Abode in <hi>England;</hi> or <hi>Twenty Pounds</hi> for being <hi>Naturaliz'd;</hi> and <hi>Ten Pounds</hi> for his <hi>Wife,</hi> and <hi>Ten Shillings</hi> a piece for his <hi>Children:</hi> And any <hi>Widow</hi> or <hi>Maid</hi> that is an <hi>Alien,</hi> to be <hi>Naturaliz'd</hi> for <hi>Ten Pounds.</hi>
+               </p>
+               <p>
+                  <hi>Fifthly,</hi> And whereas there are Multitudes of <hi>Aliens,</hi> who are <hi>Mechanicks;</hi> That all ſuch, whether they be <hi>Maſters of Families,</hi> or <hi>ſingle Men,</hi> and are worth <hi>One Hundred Pounds,</hi> may either pay <hi>Twenty Shillings</hi> a Year to the <hi>King,</hi> or <hi>Five Pounds</hi> to be <hi>Naturaliz'd;</hi> and <hi>Fifty Shillings</hi> for every <hi>Wife</hi> of ſuch a Man, and <hi>Ten Shillings</hi> for a <hi>Child.</hi> And for all ſuch as are not worth <hi>One Hundred Pounds,</hi> to pay the ſame
+<pb n="22" facs="tcp:99790:12"/>with <hi>Servants, (viz.) Five Shillings per Annum,</hi> for all that are upward of Twenty Years of Age; And if any ſuch deſire to be <hi>Naturaliz'd,</hi> that they may be ſo, for Payment of their <hi>Five Pounds.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">
+                           <abbr>
+                              <hi>l</hi>
+                           </abbr>
+                        </cell>
+                        <cell role="label">
+                           <abbr>
+                              <hi>s</hi>
+                           </abbr>
+                        </cell>
+                        <cell role="label">
+                           <abbr>
+                              <hi>d</hi>
+                           </abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Theſe <hi>Duties</hi> will induce and pre<g ref="char:EOLhyphen"/>vail with many to be <hi>Naturaliz'd,</hi> whereby there will be great Sums of Money raiſed, either from the <hi>double Duties</hi> before-mentioned, or by ſuch as ſhall have a mind to be <hi>Naturaliz'd,</hi> or from the <hi>Annual Payments,</hi> as afore-ſaid; the leaſt of which Ways may raiſe, <hi>per Annum,</hi>
+                        </cell>
+                        <cell>150000</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="5" type="proposal">
+               <head>Propoſal V.</head>
+               <p n="1">1. THAT whereas, not only in the Sea-Ports of <hi>England, Wales,</hi> and <hi>Berwick</hi> upon <hi>Tweed,</hi> but alſo in the <hi>Members</hi> and <hi>Creeks</hi> thereunto belonging, many Perſons have, and do yet practice fraudulent ways, and Cheat the <hi>King</hi> of His <hi>Cuſtoms,</hi> by ſmuggling and running Goods on Shoar, without Paying any <hi>Duties</hi> for them.</p>
+               <pb n="23" facs="tcp:99790:12"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">
+                           <abbr>
+                              <hi>l</hi>
+                           </abbr>
+                        </cell>
+                        <cell role="label">
+                           <abbr>
+                              <hi>s</hi>
+                           </abbr>
+                        </cell>
+                        <cell role="label">
+                           <abbr>
+                              <hi>d</hi>
+                           </abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>In all Dutiful Submiſſion, I humbly Propoſe, That hence-forward the Goods may not only be Forfieted, if Seized; but that a Fine of <hi>Fifty Pounds,</hi> for every <hi>Five Pounds</hi> worth of Goods, more or leſs in Proportion, that ſhall be ſo run or concealed, may be ſet upon the Perſon that runs or owns them, if taken; and the ſame Fine upon him or her in whoſe Houſe or Cuſtody they ſhall be found or Seized: By which means the <hi>King</hi> will either have his <hi>Cuſtoms</hi> better paid, and thereby advance Him more Money; or elſe, there will be conſiderable Sums raiſed by <hi>Fines</hi> and <hi>Seizures;</hi> which may produce, <hi>per Annum,</hi>
+                        </cell>
+                        <cell>100000</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>And if any ſhall run Goods, who, being taken, are not able to pay the Fines, to be Impriſoned till the Fines are diſcharged; and that one half of all ſuch Fines may go to the <hi>King,</hi> and the other half equally divided between the <hi>Officer</hi> that ſeizeth, and the <hi>Informer;</hi> and that the <hi>Officer,</hi> or any other Perſon that hath a Suſpicion of Goods to be run, may call a <hi>Conſtable,</hi> and ſearch for them, and if hindered, the Perſon ſo hindering to be fined <hi>One Hundred Pounds;</hi> one half to be paid the <hi>King,</hi> and the other half to the <hi>Officer</hi> and <hi>Informer.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">
+                           <abbr>
+                              <hi>l</hi>
+                           </abbr>
+                        </cell>
+                        <cell role="label">
+                           <abbr>
+                              <hi>s</hi>
+                           </abbr>
+                        </cell>
+                        <cell role="label">
+                           <abbr>
+                              <hi>d</hi>
+                           </abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Secondly,</hi> That a <hi>Duty</hi> of <hi>Five Shil<g ref="char:EOLhyphen"/>lings per Annum</hi> be charged upon all Per<g ref="char:EOLhyphen"/>ſons that wear <hi>Wigs,</hi> being upwards of Sixteen Years of Age; and that all Ap<g ref="char:EOLhyphen"/>prentices to working Trades, and ſuch Servants as ſerve for under <hi>Ten. Pounds per Annum,</hi> be excepted in this <hi>Tax;</hi> but that all others wearing <hi>Wigs</hi> pay; of which I reckon 500000 People, at <hi>Five Shillings</hi> a Head, comes to, <hi>per Annum,</hi>
+                        </cell>
+                        <cell>150000</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <pb n="24" facs="tcp:99790:13"/>
+                     <row>
+                        <cell>
+                           <hi>Thirdly,</hi> That a <hi>Duty</hi> of <hi>Five Shil<g ref="char:EOLhyphen"/>lings per Annum</hi> be laid upon ſuch as wear <hi>Swords,</hi> all the <hi>Officers</hi> and <hi>Soul<g ref="char:EOLhyphen"/>diers,</hi> by Sea and Land, and ſuch <hi>Ser<g ref="char:EOLhyphen"/>vants</hi> as attend or belong to the Court, and all that wear Liveries, being ex<g ref="char:EOLhyphen"/>cepted; of which I reckon 200000 Perſons, at <hi>Five Shillings</hi> a Man, comes to, <hi>per Annum,</hi>
+                        </cell>
+                        <cell>050000</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Fourthly,</hi> That a <hi>Duty</hi> of <hi>Twelve Pence</hi> a Thouſand, or one Thirteenth part they are Sold at, be laid upon all <hi>Bricks</hi> and <hi>Tiles,</hi> at the Kilns where they ſhall be made; of which <hi>Bricks</hi> and <hi>Tiles</hi> I reckon there are Yearly made as many as are worth <hi>Two Millions</hi> of <hi>Pounds;</hi> ſo that one Thirteenth part for the <hi>King's Duty</hi> will raiſe,</cell>
+                        <cell>153846</cell>
+                        <cell>03</cell>
+                        <cell>00</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>— And if any Perſon ſhall make <hi>Bricks</hi> and <hi>Tiles</hi> for his own Uſe, to pay after the Proportion ſuch <hi>Bricks</hi> and <hi>Tyles</hi> are worth, or ſold for the Thouſand in that Countrey or Place where they are made.</p>
+               <p>
+                  <hi>Fifthly,</hi> I Humbly Propoſe, That You would be pleaſed to Addreſs His Majeſty, for Liberty to Erect a <hi>Fine Office,</hi> to be kept at <hi>Grocers-Hall,</hi> in the City of <hi>London,</hi> to be ma<g ref="char:EOLhyphen"/>naged by ſuch Perſons as the <hi>Lords of the Treaſury,</hi> together with the <hi>Governour</hi> and <hi>Deputy-Governour</hi> of the BANK, ſhall think fit to appoint. — In which <hi>Office,</hi> to be kept a Liſt and Catalogue of all the <hi>Offices</hi> dependant on the <hi>Crown;</hi> and of all <hi>Officers</hi> and <hi>Servants</hi> Names excepting theſe follow<g ref="char:EOLhyphen"/>ing, and ſuch others as You, in Your Great Wiſdom, ſhall think fit further to except. <hi>(viz.)</hi>
+               </p>
+               <pb n="25" facs="tcp:99790:13"/>
+               <list>
+                  <head>EXCEPTED.</head>
+                  <item>I. <hi>All ſuch as are within the Degree of Nobility, in what Poſt, Station or Function ſoever they are.</hi>
+                  </item>
+                  <item>II. <hi>All the Officers in the Army above the Poſt of Captains.</hi>
+                  </item>
+                  <item>III. <hi>All Admirals, Vice-Admirals, and Rear-Ad<g ref="char:EOLhyphen"/>mirals, at Sea.</hi>
+                  </item>
+                  <item>IV. <hi>The Lords of the Treaſury.</hi>
+                  </item>
+                  <item>V. <hi>All ſuch as Wait and Attend upon his Majeſty's Perſon.</hi>
+                  </item>
+               </list>
+               <p>And that an Account may be taken of the Names and Imployments of all others, both by <hi>Sea</hi> and <hi>Land,</hi> that are <hi>Officers,</hi> except ſuch as are in the <hi>Army,</hi> and what their <hi>Sallaries</hi> may be worth Yearly, which each and every of them receives from the <hi>Crown;</hi> together with all <hi>Perquiſites</hi> belonging to their reſpective Offices and Imployments; whether in the <hi>Exchequer, Treaſury, Poſt-Houſe, Cuſtom-Houſe, Exciſe-Office, Admiralty, Office of Ordinance, Navy-Office,</hi> or in any other <hi>Office</hi> or <hi>Imployment</hi> whatſoever dependant on the <hi>Crown;</hi> for which they receive Sallaries from the <hi>King,</hi> or Fees and Perquiſites from the <hi>People;</hi> That all and every of them, Serving the <hi>King</hi> by <hi>Land,</hi> from the higheſt to the loweſt Imployment, for Payment of One Years Sallary into this <hi>Fine-Office,</hi> for the Uſe of the <hi>King,</hi> may be eſtabliſh'd in his Imployment during Life; provided he be not found guilty of Negligence, Inſufficiency, or Diſhoneſty; if any of which be fairly prov'd againſt him, to be Diſcharg'd. — And that Printed Certificates be ready in this <hi>Fine-Office,</hi> to be given to all Perſons upon Payment of their <hi>Fines.</hi>
+               </p>
+               <pb n="26" facs="tcp:99790:14"/>
+               <p>
+                  <hi>Sixthly,</hi> That the <hi>Act of Parliament,</hi> relating to this <hi>Fine-Office,</hi> (if it be ſet up) may demonſtrate and ſet forth, for the Benefit of the <hi>King,</hi> and Information of the <hi>People,</hi> — That all Perſons who are now out of Office, and deſire to be Imploy'd, under the <hi>King,</hi> in the <hi>Exchequer, Post-Houſe, Cuſtom-Houſe, Exciſe-Office,</hi> or in any other <hi>Office, Post</hi> or <hi>Station</hi> whatſoever, either by <hi>Land</hi> or <hi>Sea,</hi> as hereafter-mentioned, — That if they, or their Friends, go to this <hi>Fine-Office,</hi> and pay One Years Sallary in, for the Uſe of the <hi>King,</hi> (let the <hi>Fine</hi> be for a greater or leſſer <hi>Office,</hi>) That their Names ſhall be there Regiſtered, and they ſerv'd with the <hi>firſt Office</hi> that falls, ſuitable to the Proportion of the <hi>Fine</hi> paid in, <hi>To Have and to Hold</hi> it during Life, with a Certificate for the ſame, upon the Conditions afore-ſaid; that is to ſay, for a <hi>Fifty Pound Fine,</hi> a Place of <hi>Fifty Pounds per Annum;</hi> and for a <hi>Hundred Pound Fine,</hi> a <hi>Hun<g ref="char:EOLhyphen"/>dred Pounds per Annum;</hi> and ſo for a <hi>Thouſand Pounds,</hi> more or leſs, according to the Value of the higheſt <hi>Office of Imploy<g ref="char:EOLhyphen"/>ment</hi> there is under the <hi>King</hi> Yearly; and that every Man be ſerved according to Priority of the Payment of his <hi>Fine,</hi> always excepting the before-excepted Perſons, and their Imployments.</p>
+               <p>
+                  <hi>Seventhly,</hi> That if any of the <hi>King's Officers</hi> or <hi>Servants,</hi> whoſe Buſineſs is at <hi>Land;</hi> as in the <hi>Exchequer, Cuſtom-Houſe, Poſt-Houſe,</hi> or in any other <hi>Office,</hi> from the higheſt to the loweſt Station whatſoever, excepting the before-excepted, and ſuch others as You ſhall think fit to except, be unwilling, or neglecteth to pay the Value of One Years Sallary for his Imployment into this <hi>Fine-Office,</hi> in Three Months Time next after publick Notice is given in the <hi>Gazette,</hi> for all <hi>Officers</hi> to make their Payments; — That ſuch Perſon ſo neglecting be diſcharged, and turned out of his <hi>Office,</hi> and the firſt Man that ſtands in the Regiſter for the like <hi>Office,</hi> according to the priority of the Payment of his <hi>Fine,</hi> be put in.</p>
+               <pb n="27" facs="tcp:99790:14"/>
+               <p>
+                  <hi>Eighthly,</hi> That all <hi>Officers</hi> in the <hi>Army</hi> be free, and excuſed from paying any <hi>Fines</hi> for the preſent <hi>Offices</hi> they are in:— But for the Encouragement of all ſuch who are out of Office, and deſirous to ſerve His <hi>Majeſty</hi> in the <hi>Army,</hi> in Expectation of Preferment, by Entring into <hi>Offices,</hi> as they become empty; That <hi>Fifty Pounds</hi> paid into this <hi>Fine-Office,</hi> by a fit Per<g ref="char:EOLhyphen"/>ſon, may be accepted as a <hi>Fine</hi> for a <hi>Captain's</hi> Place in the <hi>Guards,</hi> and ſo proportionably for other inferiour <hi>Officers;</hi> and <hi>Forty Pounds</hi> for a <hi>Captain's</hi> Place in every other Regiment of <hi>Horſe</hi> or <hi>Foot,</hi> and ſo in proportion for all other lower <hi>Offices:</hi> whereby many Perſons, who are willing to try their Fortunes, in Hopes of Preferment, will pay in <hi>Fines,</hi> and attend the <hi>Army</hi> as <hi>Volunteers,</hi> having Certificates to introduce them, as Places fall: And that all ſuch behaving themſelves well; and performing their Duty as they ought to do, may continue in their Imployments (and advance themſelves if they can) during the <hi>War,</hi> or ſo long as His Majeſty ſhall have occaſion for them.</p>
+               <p>
+                  <hi>Ninthly,</hi> That all <hi>Captains, Lieutenants,</hi> and other Officers that ſerve His Majeſty by <hi>Sea,</hi> who have behaved themſelves Honeſtly, and are able and fit to perform their Imployments, may continue in their <hi>Offices</hi> till juſt cauſe ſhall be found to remove them. — But for the Encouragement of all ſuch who are out of Office, being fitly qualified, and are deſirous to ſerve His Majeſty at <hi>Sea,</hi> in hopes of Preferment, as Places fall; — That ſuch Perſons paying a <hi>Hundred Pounds</hi> into the <hi>Fine-Office,</hi> may be accepted as a <hi>Fine</hi> for a <hi>Captain's</hi> Place in any of the <hi>King's Ships,</hi> that are not of the Firſt, Second and Third Rates, being a Perſon well known, and fitly qualified, as afore-ſaid; and <hi>Eighty Pound</hi> for a <hi>Lieu<g ref="char:EOLhyphen"/>tenant</hi> and <hi>Purſer's</hi> Place, and ſo proportionable for other <hi>inferiour Officers;</hi> for which Places, any Perſons to have Liberty to Fine, being willing to go on board, in hopes of Preferment; and that all ſuch having Certificates, may
+<pb n="28" facs="tcp:99790:15"/>continue in their Imployments ſo long as His Majeſty ſhall have occaſion for them, performing their Buſineſs as it ought to be done: — Which <hi>Fines</hi> the Firſt Year, may raiſe near 500000 <hi>Pounds;</hi> and 200000 <hi>Pounds per Annum</hi> after. To prove the Reaſonableneſs of this <hi>Fine-Office</hi> and <hi>Fines,</hi> I ſhall not inlarge; only ſay, in my Opinion, He that will not pay One Years Sallary to ſecure him in his Imployment, during Life, upon his good Behaviour, deſerves no <hi>Office</hi> or <hi>Commiſſion</hi> at all under the <hi>King;</hi> for, in regard <hi>Money</hi> muſt be rais'd, it is but reaſonable they ſhould aſſiſt Him that ſup<g ref="char:EOLhyphen"/>ports them.</p>
+            </div>
+            <div n="6" type="proposal">
+               <head>Propoſal VI.</head>
+               <p>IN Order to remove the growing Difficulties that attend the <hi>Coyn,</hi> with the Obſtuction of <hi>Trade;</hi> and to make the Circumſtances which now clog <hi>Commerce,</hi> and all <hi>Pay<g ref="char:EOLhyphen"/>ments</hi> more eaſie to the People, who daily groan under great Diſcontent.</p>
+               <p>In all Dutiful Submiſſion, I humbly Propoſe,</p>
+               <p>
+                  <hi>Firſt,</hi> That, with all Expedition, You cauſe <hi>Three Millions</hi> of <hi>Parliamentary Notes</hi> to be Stamp'd, and Printed upon ſuch <hi>Marbled Paper,</hi> and ſo Mark'd, as not to be Counterfeited, from <hi>Five Pounds</hi> a <hi>Note,</hi> to <hi>Five Hundred Pounds;</hi> which <hi>Notes</hi> to be to this Effect following:</p>
+               <pb n="29" facs="tcp:99790:15"/>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="sample_bearer_note">
+                           <head>N<hi rend="sup">o.</hi> 1. 169</head>
+                           <head>Parliamentary Note for the County of <hi>Darby.</hi>
+                           </head>
+                           <p>THIS Note Entituleth <hi>John Wood</hi> of <hi>Middleton,</hi> in the Pariſh of <hi>Workſworth,</hi> and County afore-ſaid, or the Bearer hereof, unto <hi>One Hundred Pounds.</hi>
+                           </p>
+                           <signed>Witneſs our Hands
+<list>
+                                 <item>A. B. <hi>Sheriff.</hi>
+                                 </item>
+                                 <item>C. D. <hi>Iuſtice of the Peace.</hi>
+                                 </item>
+                                 <item>E. F. <hi>Iuſtice of the Peace.</hi>
+                                 </item>
+                                 <item>G. H. <hi>Deputy-Receiver.</hi>
+                                 </item>
+                                 <item>J. K. <hi>Deputy-Receiver.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>And if You think fit, the Names of every Perſon, whoſe Hands theſe <hi>Bills</hi> paſs through, may be ordered to be put on the back-ſide; whereby they may be trac'd from the laſt to the firſt, by the <hi>Sheriff,</hi> if any ſhould be Counterfeited or Suſpected.</p>
+               <p>Note. <hi>Very few of theſe</hi> Bills <hi>will paſs through Six Hands before they are called in.</hi>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> That theſe <hi>Parliamentary Notes</hi> be immediately diſpatch'd to all the <hi>Sheriffs</hi> in <hi>England, Wales,</hi> and <hi>Berwick</hi> upon <hi>Tweed;</hi> And that You apply <hi>Thirty</hi> or <hi>Forty Thouſand Pounds</hi> in theſe <hi>Notes</hi> to every County, more or leſs, to ſupply the Trade thereof, as You, in Your Great Wiſdom, ſhall think fit to appoint.</p>
+               <p>
+                  <hi>Thirdly,</hi> That You Petition for His Majeſty's <hi>Proclamation,</hi> to be iſſued along with theſe <hi>Notes,</hi> Commanding the <hi>Sheriffs</hi> and <hi>Juſtices of the Peace</hi> to meet immediately, in Order to take in and receive the Peoples Money, and that they pay it to them accordingly.</p>
+               <pb n="30" facs="tcp:99790:16"/>
+               <p>
+                  <hi>Fourthly,</hi> That the <hi>Sheriffs, Juſtices of the Peace,</hi> or their <hi>Deputies,</hi> do deliver out theſe <hi>Notes,</hi> upon the Receipt of the Peoples Money, and take it in by Tale and Weight, according to the Directions I have laid down in the Book, Entituled, <hi>The Alteration of the Coyn.</hi>
+               </p>
+               <p>
+                  <hi>Fifthly,</hi> That for a <hi>Hundred Pounds</hi> received in <hi>Clipt Money,</hi> the <hi>Officer</hi> give out a <hi>Parliamentary Note</hi> of a <hi>Hundred Pounds,</hi> which ſhall paſs for ſo much <hi>Currant Money</hi> till they receive the Value in Money <hi>New Coyn'd;</hi> and ſo for any Sum, more or leſs, which, when paid, makes their Damage good.</p>
+               <p>
+                  <hi>Sixthly,</hi> That when the <hi>Sheriffs</hi> are furniſhed with Money from the <hi>Tower,</hi> they call in all theſe <hi>Notes,</hi> and pay the People, and return them to Your Honours.</p>
+               <p>
+                  <hi>Seventhly,</hi> That 'tis neceſſary to take the Weight of the Money, to know what Loſs there will be upon every <hi>Hundred Pounds,</hi> more or leſs, by Comparing the Weight of a <hi>Hundred Pounds</hi> of <hi>Clypt Money,</hi> with a <hi>Hundred Pounds</hi> of <hi>New Money;</hi> and to whom each Loſs muſt be made good.</p>
+               <p>
+                  <hi>Eighthly,</hi> That the Difference of the Weight between a <hi>Hundred Pounds,</hi> more or leſs, of <hi>Clypt Money,</hi> and the like Sum, by Tale of <hi>New Money,</hi> be ſpecified on the back of each <hi>Note</hi> that is given for it; whereby You may immedi<g ref="char:EOLhyphen"/>ately know the Loſs each County brings forth by their <hi>Clypt Money.</hi>
+               </p>
+               <p>
+                  <hi>Ninthly,</hi> That the <hi>Sheriffs, Juſtices of the Peace,</hi> or their <hi>Deputies,</hi> obſerve the Directions in the before-mentioned Book, for keeping the Peoples Money ſeparate, otherwiſe, all will be in Confuſion, if one Perſon's Money be mix'd with another; and alſo, in packing it up, and haſting it to the <hi>Tower,</hi> or ſuch Place you appoint for <hi>Coynage:</hi> and the like Care to be taken for the ſpeedy Return of it to them again.</p>
+               <pb n="31" facs="tcp:99790:16"/>
+               <p>
+                  <hi>Tenthly,</hi> That all the <hi>Parliamentary Notes</hi> be Sign'd by the <hi>Sheriffs, Two Juſtices of the Peace,</hi> and <hi>Two of their De<g ref="char:EOLhyphen"/>puties;</hi> which <hi>Notes</hi> may be return'd to You, or Your Order, again, in a few Months, if ſpeedy Care be taken; and that none of them be allow'd to paſs for <hi>Money</hi> out of the County they are aſſign'd to: And that 1500000 <hi>Pounds</hi> in theſe <hi>Notes</hi> be appropriated to paſs in the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> and County of <hi>Middleſex;</hi> which <hi>Notes</hi> will reduce the Exchange, and make it <hi>par ipſo facto,</hi> upon their coming forth.</p>
+               <p>
+                  <hi>Eleventhly,</hi> That, with all Expedition, Care be taken for Set<g ref="char:EOLhyphen"/>tling of <hi>Funds,</hi> not only for a further Supply of the Deficiency of the <hi>Clipt Money;</hi> for which, the 1200000 <hi>Pounds,</hi> I believe will fall much ſhort: but <hi>Funds</hi> upon which You may take up what Money the <hi>Bank of England,</hi> the <hi>Orphans Bank,</hi> and the <hi>Million Bank,</hi> can ſpare, or of any ſingle Perſon or Society, where Money is to be had, giving them <hi>Parliamentary Notes</hi> for the Value thereof: for before any lends or parts with their Money, enquiry will be made upon what <hi>Fund,</hi> and when they ſhall have it again, if this 1200000 <hi>Pounds</hi> falls ſhort.</p>
+               <p>
+                  <hi>Twelfthly,</hi> By Delivering out of theſe <hi>Notes,</hi> the <hi>Clypt Money</hi> will be faſter brought in, than it can be Coyned; and the People, by help of them, will be able to carry on their Trade till <hi>New Money</hi> comes forth; who, if not ſupply'd with ſuch <hi>Notes,</hi> or ſomething that will paſs for the Value of what they are to part with, will meet with great Diſappointments in their Affairs, and be very ſlow in bringing in their Money, which will not only be a great Prejudice and Delay to the <hi>Coynage,</hi> but alſo may affect and retard the <hi>King's Buſineſs</hi> in the next Campaign.</p>
+               <p>
+                  <hi>Thirteenthly,</hi> For the Conveniency of the Poorer ſort of People, and to keep them from Diſorders, of whom there are <hi>Two Millions,</hi> who can have but little Credit; it is abſolutely neceſſary, That ſpeedy Orders be given for ſetting up Six Mills, to Coyn <hi>Copper</hi> into <hi>Pence, Half-Pence,</hi> and <hi>Farthings,</hi>
+                  <pb n="32" facs="tcp:99790:17" rendition="simple:additions"/>of equal Value with the <hi>Copper;</hi> and that Twenty Tons be ſo Coyned, and the Buſineſs followed Night and Day, till it is diſpatch'd.— The <hi>
+                     <g ref="char:V">Ʋ</g>ndertakers</hi> to be allow'd <hi>Twelve</hi> or <hi>Fourteen Pounds per Cent.</hi> by the <hi>Government,</hi> for their <hi>Copper</hi> and <hi>Workmanſhip,</hi> and to take their <hi>Copper Coyn</hi> in again when the <hi>New Money</hi> comes forth, and a <hi>Fund</hi> ſettled to pay them.</p>
+               <p>Much more might be ſaid concerning the <hi>Coyn</hi> and <hi>Coynage;</hi> but till <hi>Funds</hi> are ſettled, and <hi>Parliamentary Notes</hi> given out, it will be difficult for You to proceed in Methods to Your own Satisfaction, or the Peoples Content; whoſe Clamours will increaſe daily, till they are enabled ſome way to pay and receive, and the Poor more plentifully fitted with Change, or ſmall Money.</p>
+               <p>It is alſo neceſſary, That the <hi>New Coyn'd Money</hi> be made one Sixth part broader than it was before, which will prevent the <hi>Counterfeiting</hi> of it, and make all thoſe falſe Stamps and Ways they have now to Caſt it, uſeleſs;— for, if it be Coyn'd of the ſame Size it was, or if King <hi>Charles</hi> and King <hi>James</hi>'s <hi>Money</hi> may yet paſs, You will have as much <hi>Counterfeited</hi> of thoſe kinds in a few Months, as there is now of it really good.</p>
+               <p>
+                  <hi>Laſtly,</hi> Before the Concluſion of this <hi>Seſſion of Parliament,</hi> That effectual <hi>Laws</hi> be made to prevent the <hi>Melting down of the New Coyn,</hi> with reſpect to the <hi>Importing</hi> and <hi>Exporting</hi> of <hi>Bullion;</hi> concerning which, there may be ſuch Methods taken as will prevent the <hi>Melting down</hi> and <hi>Exporting of the New Money;</hi> (which <hi>Ways</hi> I have not Time now to lay down) for You may conclude, Your <hi>Enemies</hi> Abroad, and <hi>Male-Contents</hi> at Home, with many others, for Intereſt ſake, will have Deſigns upon it: <hi>Which, that You may do all You can to prevent, is what offers at preſent upon this Subject,</hi>
+               </p>
+               <closer>
+                  <signed>By Your moſt Humble, And moſt Obedient Servant, <hi>T. H.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>Page 15. Line 25. for <hi>Coppers,</hi> read <hi>Copperas.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
